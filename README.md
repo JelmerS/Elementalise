@@ -1,5 +1,5 @@
 # Elementalise
-# Requires modules NLTK, Wikipedia
 
+Requires modules NLTK, Wikipedia
 
 Voor puzzel
