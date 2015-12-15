@@ -1,0 +1,861 @@
+Source page :http://en.wikipedia.org/wiki/Christmas
+Results for language af:
+
+[]
+-----
+
+Results for language als:
+
+['S', 'SeITeN', 'SP']
+-----
+
+Results for language am:
+
+[]
+-----
+
+Results for language ang:
+
+[]
+-----
+
+Results for language ar:
+
+[]
+-----
+
+Results for language an:
+
+[]
+-----
+
+Results for language arc:
+
+[]
+-----
+
+Results for language roa-rup:
+
+[]
+-----
+
+Results for language as:
+
+[]
+-----
+
+Results for language ast:
+
+[]
+-----
+
+Results for language gn:
+
+[]
+-----
+
+Results for language az:
+
+['ISBN', 'ISBN']
+-----
+
+Results for language bn:
+
+[]
+-----
+
+Results for language bjn:
+
+[]
+-----
+
+Results for language zh-min-nan:
+
+[]
+-----
+
+Results for language ba:
+
+[]
+-----
+
+Results for language be:
+
+[]
+-----
+
+Results for language be-x-old:
+
+[]
+-----
+
+Results for language bh:
+
+[]
+-----
+
+Results for language bg:
+
+[]
+-----
+
+Results for language bar:
+
+[]
+-----
+
+Results for language bo:
+
+[]
+-----
+
+Results for language bs:
+
+[]
+-----
+
+Results for language br:
+
+[]
+-----
+
+Results for language bxr:
+
+[]
+-----
+
+Results for language ca:
+
+[]
+-----
+
+Results for language cv:
+
+[]
+-----
+
+Results for language ceb:
+
+[]
+-----
+
+Results for language cs:
+
+['SV', 'BArBORaPrOSINeCSV', 'SV', 'SV', 'SV', 'SV', 'SV', 'SV', 'STePaN', 'PrOCeNThLaSU', 'PRaHAsPN', 'S', 'S', 'ISBN', 'S', 'NO', 'SN', 'ISBN', 'S', 'ReV', 'SN', 'ISBN', 'S', 'SN', 'S', 'ISBN', 'S', 'ISBN', 'S', 'ISBN', 'S', 'S', 'C', 'SS', 'PRaHAlIBrI', 'ISBN']
+-----
+
+Results for language cbk-zam:
+
+['ISBN']
+-----
+
+Results for language co:
+
+['HOC', 'CUNS', 'IHS']
+-----
+
+Results for language cy:
+
+[]
+-----
+
+Results for language da:
+
+[]
+-----
+
+Results for language pdc:
+
+[]
+-----
+
+Results for language de:
+
+['S', 'FS', 'FSF', 'ISBN', 'SP', 'HIErSP']
+-----
+
+Results for language et:
+
+[]
+-----
+
+Results for language el:
+
+[]
+-----
+
+Results for language eml:
+
+[]
+-----
+
+Results for language es:
+
+['ISBN', 'ISBN']
+-----
+
+Results for language eo:
+
+[]
+-----
+
+Results for language ext:
+
+[]
+-----
+
+Results for language eu:
+
+[]
+-----
+
+Results for language fa:
+
+[]
+-----
+
+Results for language fo:
+
+[]
+-----
+
+Results for language fr:
+
+['P', 'P']
+-----
+
+Results for language fy:
+
+[]
+-----
+
+Results for language fur:
+
+[]
+-----
+
+Results for language ga:
+
+[]
+-----
+
+Results for language gv:
+
+[]
+-----
+
+Results for language gd:
+
+[]
+-----
+
+Results for language gl:
+
+[]
+-----
+
+Results for language gu:
+
+['ISBN', 'ISBN']
+-----
+
+Results for language hak:
+
+[]
+-----
+
+Results for language ko:
+
+[]
+-----
+
+Results for language haw:
+
+[]
+-----
+
+Results for language hy:
+
+[]
+-----
+
+Results for language hi:
+
+[]
+-----
+
+Results for language hsb:
+
+[]
+-----
+
+Results for language hr:
+
+[]
+-----
+
+Results for language io:
+
+[]
+-----
+
+Results for language ilo:
+
+[]
+-----
+
+Results for language bpy:
+
+[]
+-----
+
+Results for language id:
+
+['ISBN', 'ISBN']
+-----
+
+Results for language ie:
+
+[]
+-----
+
+Results for language ik:
+
+[]
+-----
+
+Results for language zu:
+
+[]
+-----
+
+Results for language is:
+
+[]
+-----
+
+Results for language it:
+
+[]
+-----
+
+Results for language he:
+
+[]
+-----
+
+Results for language jv:
+
+[]
+-----
+
+Results for language kn:
+
+[]
+-----
+
+Results for language ka:
+
+[]
+-----
+
+Results for language csb:
+
+[]
+-----
+
+Results for language kk:
+
+[]
+-----
+
+Results for language rw:
+
+[]
+-----
+
+Results for language sw:
+
+[]
+-----
+
+Results for language kv:
+
+[]
+-----
+
+Results for language kg:
+
+[]
+-----
+
+Results for language ht:
+
+[]
+-----
+
+Results for language ku:
+
+[]
+-----
+
+Results for language mrj:
+
+[]
+-----
+
+Results for language lbe:
+
+[]
+-----
+
+Results for language lo:
+
+[]
+-----
+
+Results for language ltg:
+
+[]
+-----
+
+Results for language la:
+
+[]
+-----
+
+Results for language lv:
+
+[]
+-----
+
+Results for language lb:
+
+[]
+-----
+
+Results for language lt:
+
+[]
+-----
+
+Results for language li:
+
+[]
+-----
+
+Results for language ln:
+
+[]
+-----
+
+Results for language lmo:
+
+[]
+-----
+
+Results for language hu:
+
+[]
+-----
+
+Results for language mk:
+
+[]
+-----
+
+Results for language ml:
+
+[]
+-----
+
+Results for language mt:
+
+[]
+-----
+
+Results for language mr:
+
+[]
+-----
+
+Results for language arz:
+
+[]
+-----
+
+Results for language mzn:
+
+[]
+-----
+
+Results for language ms:
+
+[]
+-----
+
+Results for language cdo:
+
+[]
+-----
+
+Results for language mdf:
+
+[]
+-----
+
+Results for language my:
+
+[]
+-----
+
+Results for language nah:
+
+[]
+-----
+
+Results for language na:
+
+[]
+-----
+
+Results for language nl:
+
+[]
+-----
+
+Results for language nds-NL:
+
+[]
+-----
+
+Results for language ne:
+
+[]
+-----
+
+Results for language ja:
+
+[]
+-----
+
+Results for language nap:
+
+['PP']
+-----
+
+Results for language frr:
+
+[]
+-----
+
+Results for language no:
+
+['ISBNSS', 'ISBNSS']
+-----
+
+Results for language nn:
+
+[]
+-----
+
+Results for language nrm:
+
+[]
+-----
+
+Results for language nov:
+
+[]
+-----
+
+Results for language oc:
+
+[]
+-----
+
+Results for language uz:
+
+[]
+-----
+
+Results for language pa:
+
+[]
+-----
+
+Results for language pfl:
+
+[]
+-----
+
+Results for language km:
+
+[]
+-----
+
+Results for language nds:
+
+['SP']
+-----
+
+Results for language pl:
+
+[]
+-----
+
+Results for language pt:
+
+[]
+-----
+
+Results for language ksh:
+
+[]
+-----
+
+Results for language ro:
+
+[]
+-----
+
+Results for language rm:
+
+[]
+-----
+
+Results for language qu:
+
+[]
+-----
+
+Results for language rue:
+
+[]
+-----
+
+Results for language ru:
+
+[]
+-----
+
+Results for language sah:
+
+[]
+-----
+
+Results for language se:
+
+[]
+-----
+
+Results for language sa:
+
+[]
+-----
+
+Results for language sco:
+
+[]
+-----
+
+Results for language stq:
+
+[]
+-----
+
+Results for language sq:
+
+[]
+-----
+
+Results for language scn:
+
+[]
+-----
+
+Results for language si:
+
+[]
+-----
+
+Results for language simple:
+
+[]
+-----
+
+Results for language sd:
+
+[]
+-----
+
+Results for language sk:
+
+['HNWICH', 'PRePRaC', 'SISBN', 'SISBN', 'S']
+-----
+
+Results for language sl:
+
+[]
+-----
+
+Results for language ckb:
+
+[]
+-----
+
+Results for language sr:
+
+[]
+-----
+
+Results for language sh:
+
+[]
+-----
+
+Results for language fi:
+
+['ISBN', 'ISBN', 'ISBN', 'ISBN', 'ISBN', 'ISBN', 'ISBN', 'ISBN', 'ISBN', 'ISBN']
+-----
+
+Results for language sv:
+
+[]
+-----
+
+Results for language tl:
+
+[]
+-----
+
+Results for language ta:
+
+[]
+-----
+
+Results for language tt:
+
+[]
+-----
+
+Results for language te:
+
+[]
+-----
+
+Results for language tet:
+
+[]
+-----
+
+Results for language th:
+
+[]
+-----
+
+Results for language tg:
+
+[]
+-----
+
+Results for language chr:
+
+['CLaUS', 'ISBN']
+-----
+
+Results for language tr:
+
+[]
+-----
+
+Results for language uk:
+
+[]
+-----
+
+Results for language ur:
+
+[]
+-----
+
+Results for language vec:
+
+[]
+-----
+
+Results for language vep:
+
+[]
+-----
+
+Results for language vi:
+
+[]
+-----
+
+Results for language wa:
+
+[]
+-----
+
+Results for language zh-classical:
+
+[]
+-----
+
+Results for language vls:
+
+[]
+-----
+
+Results for language war:
+
+[]
+-----
+
+Results for language wo:
+
+[]
+-----
+
+Results for language wuu:
+
+[]
+-----
+
+Results for language yi:
+
+[]
+-----
+
+Results for language yo:
+
+[]
+-----
+
+Results for language zh-yue:
+
+[]
+-----
+
+Results for language diq:
+
+[]
+-----
+
+Results for language bat-smg:
+
+[]
+-----
+
+Results for language zh:
+
+[]
+-----
+
+Results for language tyv:
+
+[]
+-----
+
