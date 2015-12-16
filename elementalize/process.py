@@ -19,7 +19,7 @@ elementa_list=[ 'H','He','Li','Be','B','C','N','O','F','Ne','Na','Mg',
 				'Cn','Fl','Lv'
 			]
 
-def recurr_sentence(sentence):
+def recurr_text(sentence):
 	#Expects lowercase sentence, with no spaces and no punctuation.
 	loc = 0
 	atomized_sentence = ''
@@ -51,11 +51,11 @@ def recurr_sentence(sentence):
 				atomized_sentence += element_two
 				return atomized_sentence
 			#print('forking%s', sentence[loc::])
-			fork1 = recurr_sentence(sentence[loc::])
+			fork1 = recurr_text(sentence[loc::])
 			if fork1 == '':
 				loc = loc + 1
 				#print('forking%s', sentence[loc::])
-				fork2 = recurr_sentence(sentence[loc::])
+				fork2 = recurr_text(sentence[loc::])
 				if fork2 == '':
 					return''
 				else:
@@ -75,10 +75,19 @@ def atomize_sentences(sentence_list):
 	Good_Sentences = []
 	for sentence in sentence_list:
 		sentence = cleanup(sentence)
-		sentence_result	= recurr_sentence(sentence)
+		sentence_result	= recurr_text(sentence)
 		if sentence_result != '':
 			Good_Sentences.append(sentence_result)
 	return Good_Sentences
+
+def atomize_words(word_list):
+	Good_Words = []
+	for word in word_list:
+		word = cleanup(word)
+		word_result = recurr_text(word)
+		if word_result != '':
+			Good_Words.append(word_result)
+	return Good_Words
 
 def cleanup(input):
 	#input = input.replacediacritics
@@ -91,9 +100,25 @@ def read_file(filename):
 	text = f.read()
 	return text
 
+
+def get_words(text):
+	#input: text with punctuation
+	#output: list of words
+	return tokenize.word_tokenize(text)
+
+def get_unique_words(text):
+	#input: text with punctuation
+	#output: list of unique words
+	allWords = get_words(text)
+	uniqueWords = [] 
+	for i in allWords:
+		if not i in uniqueWords:
+			uniqueWords.append(i)
+	return uniqueWords
+
 def get_sentences(text):
 	#input: text with punctuation
-	#outppu: list of sentences
+	#output: list of sentences
 	sentence_list = tokenize.sent_tokenize(text)
 	return sentence_list
 
